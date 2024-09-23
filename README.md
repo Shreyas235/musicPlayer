@@ -8,6 +8,6 @@
 
 + Item A
 + Item B
-  +Item B 1
+  *Item B1
 + Item C
 + Item D
