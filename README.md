@@ -6,7 +6,7 @@ This project showcases a visually appealing, minimalist music player UI. The int
 Check out the live version of this project [here](https://music-player23.netlify.app/).
 
 <!-- ![MusicPlayerUI](https://github.com/user-attachments/assets/53e01b9a-919b-47cc-a24e-b961db29e743) -->
-<img src="/Media/" width= 300px height= 500px>
+<img src="/Media/Music Player UI.jpg" width= 300px height= 500px>
 
 ## Key Features
 - **Artist Spotlight**: A large, circular artist image as the focal point of the player.
