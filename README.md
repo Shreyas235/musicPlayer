@@ -4,7 +4,7 @@ This project is a simple music player UI designed in a clean, minimal style. The
 
 <<<<<<< HEAD
 <!-- ![MusicPlayerUI](https://github.com/user-attachments/assets/53e01b9a-919b-47cc-a24e-b961db29e743) -->
-<img src="/Media/MusicPlayerUI.jpg" width= 10px height= 50px>
+<img src="/Media/MusicPlayerUI.jpg" width= 100px height= 300px>
 =======
 ![MusicPlayerUI](https://github.com/user-attachments/assets/30f5e943-5cb3-4f42-909a-c8c18d6d6dfc){width=50px height=100px}
 >>>>>>> 8822f0afb4e3874560083e3be8a9b6e2b8079f13
