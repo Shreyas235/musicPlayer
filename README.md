@@ -14,15 +14,14 @@ This project is a simple music player UI designed in a clean, minimal style. The
 ## Technologies Used
 - HTML
 - CSS (for layout and styling)
-- Basic JavaScript (if functionalities are added)
+- Basic JavaScript 
 
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/music-player-ui.git
+    git clone https://github.com/Shreyas235/musicPlayer
     ```
-2. Make sure the image file `musicplayerImg.jpg` is located in the same directory as your `README.md` file.
-3. Open the `index.html` file in your browser to view the music player UI.
+2. Open the `index.html` file in your browser to view the music player UI.
 
 ## Future Improvements
 - Add real music playback functionality with JavaScript.
