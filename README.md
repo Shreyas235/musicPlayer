@@ -2,6 +2,9 @@
 
 This project showcases a visually appealing, minimalist music player UI. The interface features a central circular image of the artist, with track details and control buttons, all designed with a modern pink-themed aesthetic.
 
+## Live Demo
+Check out the live version of this project [here](https://music-player23.netlify.app/).
+
 <!-- ![MusicPlayerUI](https://github.com/user-attachments/assets/53e01b9a-919b-47cc-a24e-b961db29e743) -->
 <img src="/Media/MusicPlayerUI.jpg" width= 300px height= 500px>
 
