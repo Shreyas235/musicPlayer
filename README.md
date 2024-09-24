@@ -2,7 +2,8 @@
 
 This project is a simple music player UI designed in a clean, minimal style. The player features a central circular image of the artist, a track title, and playback controls (previous, play, and next buttons) arranged with a pink color scheme and a modern layout.
 
-![Music Player UI](Media/MusicplayerUI.jpg)
+![MusicPlayerUI](https://github.com/user-attachments/assets/53e01b9a-919b-47cc-a24e-b961db29e743)
+
 
 ## Features
 - **Circular artist image** at the center of the screen.
